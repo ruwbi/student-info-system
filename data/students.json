@@ -1,0 +1,23 @@
+[
+  {
+    "student_id": "2024-001",
+    "name": "Maria Santos",
+    "course": "BS Computer Science",
+    "year_level": 2,
+    "email": "maria.santos@example.com"
+  },
+  {
+    "student_id": "2024-002",
+    "name": "Juan Dela Cruz",
+    "course": "BS Information Technology",
+    "year_level": 3,
+    "email": "juan.delacruz@example.com"
+  },
+  {
+    "student_id": "2023-015",
+    "name": "Ana Reyes",
+    "course": "BS Computer Science",
+    "year_level": 4,
+    "email": "ana.reyes@example.com"
+  }
+]

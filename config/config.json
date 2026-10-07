@@ -1,0 +1,11 @@
+{
+  "app_name": "Student Information System",
+  "version": "1.0.0",
+  "data_file": "data/students.json",
+  "log_file": "logs/app.log",
+  "export_dir": "exports",
+  "max_students": 500,
+  "min_year_level": 1,
+  "max_year_level": 4,
+  "id_pattern": "^\\d{4}-\\d{3,4}$"
+}
