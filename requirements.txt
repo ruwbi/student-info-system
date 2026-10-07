@@ -1,0 +1,4 @@
+# Student Information System - dependencies
+# This project uses ONLY the Python 3 standard library
+# (json, os, re, csv, logging, unittest, datetime, tempfile).
+# No third-party packages are required. Python 3.8+ recommended.
