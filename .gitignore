@@ -1,0 +1,21 @@
+# Logs (keep the folder, ignore generated files)
+logs/*.log
+!logs/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated exports
+exports/
