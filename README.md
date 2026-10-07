@@ -153,6 +153,4 @@ git remote add origin https://github.com/ruwbi/student-info-system.git
 git push -u origin main
 ```
 
-## 📝 License
 
-For educational use. © [Your Name]
